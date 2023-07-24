@@ -1,0 +1,9 @@
+
+path: C:/Users/Administrator/Desktop/COMP9517/GroupAss
+train: images/train
+val: images/valid
+
+
+names:
+    0: penguin
+    1: turtle
